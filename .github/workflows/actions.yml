@@ -31,10 +31,6 @@ jobs:
         
       # Runs a single command using the runners shell
       - name: Run some linux commands
-        run: echo I want to dress up as a UDP packet for Halloween but I don't know if anyone will get it
-        
-      # Runs a single command using the runners shell
-      - name: Run some linux commands
         run: id
       
       # Runs a single command using the runners shell
